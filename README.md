@@ -1,4 +1,4 @@
-### Hi there, I'm Greatmantee 👋  
+### Hi there, I'm ThankGod Ebi Magbei 👋  
 Cybersecurity Student | Ethical Hacker in Training | Networking Enthusiast  
 
 - 🔭 Currently building ethical hacking labs using Kali Linux  
