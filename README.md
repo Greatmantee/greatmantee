@@ -7,3 +7,5 @@ Cybersecurity Student | Ethical Hacker in Training | Networking Enthusiast
 - 💡 Goal: Become a Penetration Tester / SOC Analyst  
 
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/greatmantee)
+
+Emmanuel was here
